@@ -27,7 +27,7 @@ I am a passionate **Full Stack Web Developer** and a **Computer Science & Engine
 
 ### 📬 Connect with Me
 - **Email:** bijoychandraroyjr001@gmail.com
-- **LinkedIn:** [https://www.linkedin.com/in/bijoy-chandra-roy]
+- **LinkedIn:** https://www.linkedin.com/in/bijoy-chandra-roy
 - **Location:** Dhaka, Bangladesh
 
 ---
