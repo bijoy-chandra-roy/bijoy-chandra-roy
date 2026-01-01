@@ -22,12 +22,16 @@ I am a passionate **Full Stack Web Developer** and a **Computer Science & Engine
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 ### 📊 GitHub Stats
-![Bijoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=bijoy-chandra-roy&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bijoy-chandra-roy&layout=compact&theme=radical)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=bijoy-chandra-roy&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bijoy-chandra-roy&layout=compact&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bijoy-chandra-roy&theme=radical" />
+</p>
 
 ### 📬 Connect with Me
 - **Email:** bijoychandraroyjr001@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/bijoy-chandra-roy
+- **Phone:** 01915862569
+- **LinkedIn:** [linkedin.com/in/bijoy-chandra-roy](https://www.linkedin.com/in/bijoy-chandra-roy)
 - **Location:** Dhaka, Bangladesh
 
 ---
