@@ -1,7 +1,7 @@
 # Hi there, I'm Bijoy Chandra Roy 👋
 
 <p align="center">
-  <img src="https://ibb.co.com/kV1jy5nD" />
+  <img src="./images/unnamed.jpg" />
 </p>
 
 ### 🚀 About Me
