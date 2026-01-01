@@ -1,7 +1,7 @@
 # Hi there, I'm Bijoy Chandra Roy 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Full%20Stack%20Developer&fontSize=50" alt="Banner" />
+  <img src="./images/unnamed.jpg" />
 </p>
 
 ### 🚀 About Me
@@ -22,15 +22,12 @@ I am a passionate **Full Stack Web Developer** and a **Computer Science & Engine
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=bijoy-chandra-roy&show_icons=true&theme=radical" alt="Bijoy's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bijoy-chandra-roy&layout=compact&theme=radical" alt="Top Langs" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bijoy-chandra-roy&theme=radical" alt="Streak Data" />
-</p>
+![Bijoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=bijoy-chandra-roy&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bijoy-chandra-roy&layout=compact&theme=radical)
 
 ### 📬 Connect with Me
 - **Email:** bijoychandraroyjr001@gmail.com
-- **LinkedIn:** [linkedin.com/in/bijoy-chandra-roy](https://www.linkedin.com/in/bijoy-chandra-roy)
+- **LinkedIn:** https://www.linkedin.com/in/bijoy-chandra-roy
 - **Location:** Dhaka, Bangladesh
 
 ---
